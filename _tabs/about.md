@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 5
+order: 4
 ---
 
 <h1 align="center">Hello there, I'm Vincent Wutthisit Brabandt</h1>
