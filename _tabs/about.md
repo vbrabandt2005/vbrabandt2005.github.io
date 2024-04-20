@@ -7,7 +7,7 @@ order: 4
 <h1 align="center">Hello there, I'm Vincent Wutthisit Brabandt</h1>
 <h3 align="center">I'm a 19yo Musician, Tech Enthusiast, Expert in Existential/Mental & Political Crisis/es and Anime Fan idk</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vbrabandt2005&label=Profile%20views&color=0e75b6&style=flat" alt="vbrabandt2005" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vbrabandt2005&label=Github Profile%20views&color=0e75b6&style=flat" alt="vbrabandt2005" /> </p>
 
 - I’m currently working on **Life**
 
