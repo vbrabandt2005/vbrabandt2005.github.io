@@ -5,8 +5,6 @@ order: 4
 ---
 
 <h1 align="left">Hello there, I'm Vincent Wutthisit Brabandt</h1>
-<h3 align="left">I'm a 19yo Musician, Tech Enthusiast, Expert in Existential/Mental & Political Crisis/es and Anime Fan idk</h3>
-
 <h3 align="left">About Summery:</h3>
 
 - Age 19, born in Germany, raised in Thailand
