@@ -17,7 +17,7 @@ order: 4
 - High tech literacy
   - basic programming skills
   - taken apart, repaired & broke lots of computers
-  - can fix things withoug asking other people
+  - can fix things without asking other people
 - Well-verse in cultures, History & Politics
 - A Musician
   - basic understanding of music theory
