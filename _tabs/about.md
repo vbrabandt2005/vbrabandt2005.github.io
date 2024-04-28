@@ -23,9 +23,10 @@ order: 4
 
 <h3 align="left">Biography:</h3>
 Name: Vincent Wutthisit Brabandt
+
 Age: 19 years old
-Birthdate: 25/02/2005
-Birthplace: Hamburg, Germany
+Birthdate: 25/02/2005  
+Birthplace: Hamburg, Germany  
 Nationalities: German & Thai
 
 I was born in Germany (lived there from 2005 to 2009), later moved to Thailand, and then returned to Germany in 2017 for education.
@@ -43,12 +44,6 @@ Life in Germany was/has been depressing at best. My mom and I moved to Germany i
 Hopefully I’m going to soon study computer programming (at a specific school; still not confirmed), but I also have interests in Culture, Politics, Diplomacy & Civil service. My hopes are that while I study programming, I could part-time study Political Science or International Relations and get myself a degree. I confess my dream job is actually becoming a famous musician. If I had the chance to study Music I would take it, but because of my lack of Abitur degree, It’s rather hard for me to enter university (at least in Germany).
 
 If I can’t become a famous musician, I wish to start a tech company & a record label/distributor with fairness and opportunity at its core.
-
-<h3 align="left">Cool things I use idk:</h3>
-
-- **OSes**: **Windows 11** (Gaming), **MacOS** (Music Prod.) & **Ubuntu** (General)
-- **Browsers**: **Chrome** (General) & [**Floorp**](https://github.com/Floorp-Projects/Floorp) (cool stuff)
-- **Editors**: [**VSCode**](https://code.visualstudio.com), [**Zed**](https://zed.dev), [**Notepad++**](https://notepad-plus-plus.org) & [**Notepad-Next**](https://github.com/dail8859/NotepadNext)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbrabandt2005&show_icons=true&theme=dark&locale=en&layout=compact" alt="vbrabandt2005" /></p>
 
