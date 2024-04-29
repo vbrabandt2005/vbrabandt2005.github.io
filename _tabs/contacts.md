@@ -4,7 +4,7 @@ icon: fas fa-link
 order: 5
 ---
 
-<h3 align="left">My Socials:</h3>
+<h2 align="left">My Socials:</h3>
 
 - Linkedin: [**vbrabandt**](https://www.linkedin.com/in/vbrabandt/)
 - Instagram (also Threads): [**@vbrabandt2005**](https://www.instagram.com/vbrabandt2005)
