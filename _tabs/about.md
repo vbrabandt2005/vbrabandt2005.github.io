@@ -4,8 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<h1 align="left">Hello there, I'm Vincent Wutthisit Brabandt</h1>
-<h3 align="left">About Summery:</h3>
+# Hello there, I'm Vincent Wutthisit Brabandt
+
+## Summery
 
 - Age 19, born in Germany, raised in Thailand
 - Able to speak three languages
@@ -16,12 +17,13 @@ order: 4
   - basic programming skills
   - taken apart, repaired & broke lots of computers
   - can fix things without asking other people
-- Well-verse in cultures, History & Politics
+- Well-verse in Cultures, History & Politics
 - A Musician
   - basic understanding of music theory
   - able to play guitar (& other instruments too)
 
-<h3 align="left">Biography:</h3>
+## Biography
+
 Name: Vincent Wutthisit Brabandt
 
 Age: 19 years old
@@ -44,7 +46,3 @@ Life in Germany was/has been depressing at best. My mom and I moved to Germany i
 Hopefully I’m going to soon study computer programming (at a specific school; still not confirmed), but I also have interests in Culture, Politics, Diplomacy & Civil service. My hopes are that while I study programming, I could part-time study Political Science or International Relations and get myself a degree. I confess my dream job is actually becoming a famous musician. If I had the chance to study Music I would take it, but because of my lack of Abitur degree, It’s rather hard for me to enter university (at least in Germany).
 
 If I can’t become a famous musician, I wish to start a tech company & a record label/distributor with fairness and opportunity at its core.
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbrabandt2005&show_icons=true&theme=dark&locale=en&layout=compact" alt="vbrabandt2005" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vbrabandt2005&show_icons=true&theme=dark&locale=en" alt="vbrabandt2005" /></p>
