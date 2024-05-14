@@ -25,6 +25,7 @@ My plan is I will my make blog with Github Pages and one day I will make a portf
 I don't have a plan planned out, but I've been thinking of writing about:
 
 - **Personal life**
+  - Love of Capybaras
 - **Music**
   - Album/Song reviews/analyses
   - Musical equipment usage/review
@@ -45,3 +46,7 @@ I don't have a plan planned out, but I've been thinking of writing about:
 ### Are things here open-source?
 
 Answer is most will be, but I'm still learning about licenses and I will probably keep some stuff (such as photos/audios) copyrighted, but if you need anything from a post then feel free to ask for permission.
+
+### A note on commenting
+
+I just found out that I can allow commenting on the site, but I've decided to turn it off for now, but will probably enable it later
