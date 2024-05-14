@@ -19,7 +19,7 @@ This post is a list of all computers & software I use on the daily, plus some wr
 - **Ram:** 16GB DDR3L
 - **Disks:** Apple (Samsung) SSD - 512GB
 - **OS:** **MacOS** Sonoma + [OpenCore](https://github.com/dortania/OpenCore-Legacy-Patcher) & [EndeavourOS](https://endeavouros.com) + [KDE Plasma 6](https://kde.org/plasma-desktop)
-- in-dept info: [here](https://vbrabandt2005.github.io/posts/long-story-of-my-fathers-macbook-pro)
+- **In-dept info:** [here](https://vbrabandt2005.github.io/posts/long-story-of-my-fathers-macbook-pro)
 
 ### Laptop: MacBook Pro 13" i5 2013
 
