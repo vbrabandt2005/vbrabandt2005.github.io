@@ -10,7 +10,7 @@ This post is a list of all computers & software I use on the daily, plus some wr
 
 ## My computers
 
-### [Main "desktop": MacBook Pro 15" i7 2013](https://vbrabandt2005.github.io/posts/long-story-of-my-fathers-macbook-pro/)
+### [Main "desktop": MacBook Pro 15" i7 2013](https://vbrabandt2005.github.io/posts/long-story-of-my-fathers-macbook-pro)
 
 - **Name:** [Apple MacBook Pro 15" 2013](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.3-15-dual-graphics-late-2013-retina-display-specs.html)
 - **CPU:** [Intel Core i7-4850HQ (4 cores, 8 threads) @ 3.50 GHz](https://www.intel.com/content/www/us/en/products/sku/76086/intel-core-i74850hq-processor-6m-cache-up-to-3-50-ghz/specifications.html)
