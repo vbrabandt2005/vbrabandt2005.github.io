@@ -45,7 +45,7 @@ After trying out Linux, I haven't found a reason to go back to daily driving Win
 
 I honestly don't really care much about which Linux Distros to use, as most distros I would use are all either Debian/Ubuntu-based or Arch-based, though I still tend to prefer the 2 main desktop enviorment [Gnome](https://www.gnome.org) & [KDE Plasma](https://kde.org/plasma-desktop) for daily drive use, which between the two I prefer? honestly depends on what computer I'm installing it on (usually simple [Gnome](https://www.gnome.org) on Laptops & Customizable [KDE Plasma](https://kde.org/plasma-desktop) on Desktop).
 
-Sadly as a musician, I have become accustomed to Garageband/Logic and I haven't found a good alternative for it yet (I have heard of [Bitwig](https://www.bitwig.com), but haven't bothered to try it yet), because of this I still feel like I need MacOS around, I genuinely thought of getting myself another Mac only because of this 🥲.
+Sadly as a musician, I have become accustomed to Garageband/Logic and I haven't found a good alternative for it yet, because of this I still feel like I need MacOS around, I genuinely thought of getting myself another Mac only because of this 🥲.
 
 ### Package Managers
 
