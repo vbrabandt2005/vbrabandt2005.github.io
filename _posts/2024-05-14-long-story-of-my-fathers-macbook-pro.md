@@ -28,7 +28,7 @@ I inherited this MacBook Pro from my dad, and despite its age, it served me well
 
 #### Wolfsburg Woes
 
-Taking it with me to Wolfsburg for the 42 Wolfsburg's Piscine program was exciting, but the journey wasn't smooth sailing. The LVDS cable, responsible for connecting the display, started to fail, causing the screen to get fuzzy. I replaced the cable myself, but unfortunately, the display went completely dark.
+Taking it with me to Wolfsburg for the 42 Wolfsburg's Piscine program was exciting, but the journey wasn't smooth sailing. The LVDS cable, responsible for connecting the display, started to fail, causing the screen to get fuzzy. I replaced the cable myself, but unfortunately, the display went completely poof.
 
 #### A Frustrating Diagnosis
 
@@ -40,7 +40,7 @@ Back home, I soldiered on, using an external TV as a makeshift monitor (not idea
 
 #### Linux Liberation
 
-Discouraged by Windows, and having positive experiences with Ubuntu on other machines, I delved into the world of Linux distributions. Ubuntu was decent, but Linux Mint felt outdated. I finally landed on [EndeavourOS](https://endeavouros.com) with [KDE Plasma 6](https://kde.org/plasma-desktop) (think Arch Linux with a user-friendly installer). It's been a fantastic experience ever since.
+Losing faith with Windows, and having positive experiences with Ubuntu on other machines, I desided Linux was the answer. Ubuntu was okay, and Linux Mint felt a bit outdated. I finally landed on [EndeavourOS](https://endeavouros.com) with [KDE Plasma 6](https://kde.org/plasma-desktop) (think Arch Linux with a GUI installer). It's been a fantastic experience ever since.
 
 #### Driver Dilemma
 
