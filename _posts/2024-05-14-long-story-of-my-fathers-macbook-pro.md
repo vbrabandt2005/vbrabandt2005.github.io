@@ -56,7 +56,7 @@ Despite the hardware hiccups, this trusty MacBook Pro has served me well. With a
 - **Cvilization: Beyond Earth** = ~20-30FPS (Worst than Civ5 but weirdly playable)
 - **Portal 2** = ~40-60FPS (playble)
 - **Phoenix Wright: Ace Attorney** = ~50-60FPS (Very playble)
-- **Genshin Impact = ~10-20FPS** (Not playable and lots of artifacts)
+- **Genshin Impact** = ~10-20FPS (Not playable and lots of artifacts)
 
 Note: the FPS's are really just estimates from my memory, please take it with a grain of salt (for now).
 
