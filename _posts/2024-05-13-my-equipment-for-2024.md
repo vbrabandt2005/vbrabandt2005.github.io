@@ -18,7 +18,7 @@ This post is a list of all computers & software I use on the daily, plus some wr
 - **dGPU:** NVIDIA GeForce GT 750M (2GB VRAM)
 - **Ram:** 16GB DDR3L
 - **Disks:** Apple (Samsung) SSD - 512GB
-- **OS:** **MacOS** Sonoma + [OpenCore](https://github.com/dortania/OpenCore-Legacy-Patcher) & [EndeavourOS](https://endeavouros.com) + [KDE Plasma 6](https://kde.org/plasma-desktop)
+- **OS:** MacOS Sonoma + [OpenCore](https://github.com/dortania/OpenCore-Legacy-Patcher) & [EndeavourOS](https://endeavouros.com) + [KDE Plasma 6](https://kde.org/plasma-desktop)
 - **In-dept info:** [here](https://vbrabandt2005.github.io/posts/long-story-of-my-fathers-macbook-pro)
 
 ### Laptop: MacBook Pro 13" i5 2013
@@ -28,7 +28,7 @@ This post is a list of all computers & software I use on the daily, plus some wr
 - **iGPU:** Intel Iris Graphics 5100
 - **Ram:** 8GB DDR3L
 - **Disks:** WD Black SN770 1TB
-- **OS:** **MacOS** Sonoma + [OpenCore](https://github.com/dortania/OpenCore-Legacy-Patcher) & [Ubuntu 24.04 LTS](https://ubuntu.com/desktop)
+- **OS:** MacOS Sonoma + [OpenCore](https://github.com/dortania/OpenCore-Legacy-Patcher) & [Ubuntu 24.04 LTS](https://ubuntu.com/desktop)
 
 As I inherit both of these MacBooks from my parents, it was really my choice, I will write about the story and experinces with both of these (& other computers) later.
 

@@ -18,7 +18,7 @@ Anyways, this is my father's last main MacBook Pro which I'm currently using as 
 - **dGPU:** NVIDIA GeForce GT 750M (2GB VRAM)
 - **Ram:** 16GB DDR3L
 - **Disks:** Apple (Samsung) SSD - 512GB
-- **OS:** **MacOS** Sonoma + [OpenCore](https://github.com/dortania/OpenCore-Legacy-Patcher) & [EndeavourOS](https://endeavouros.com) + [KDE Plasma 6](https://kde.org/plasma-desktop)
+- **OS:** MacOS Sonoma + [OpenCore](https://github.com/dortania/OpenCore-Legacy-Patcher) & [EndeavourOS](https://endeavouros.com) + [KDE Plasma 6](https://kde.org/plasma-desktop)
 
 ### Story
 
@@ -47,3 +47,21 @@ Losing faith with Windows, and having positive experiences with Ubuntu on other 
 The driver saga continues, though. Installing proprietary drivers on EndeavourOS (kernel version 6.8.9) proved unsuccessful. Honestly, I'm hesitant to use official Nvidia drivers anymore. They're outdated and don't support Wayland support. So, I'm sticking with the open-source Nouveau drivers for now. Yes, the performance isn't ideal, but at least they're still actively maintained, and for my Kepler-based GPU, the upcoming Vulkan driver, NVK, might even outperform the old official Nvidia drivers.
 
 Despite the hardware hiccups, this trusty MacBook Pro has served me well. With a fresh Linux install and a focus on open-source options, it's ready for a new chapter, even if the display drivers remain a work in progress.
+
+### Gaming stuff on Linux (WIP)
+
+- **Mesa 24.0.7 + Linux kernel 6.8.9**
+- **Minecraft 1.20.4** (+ [Sodium](https://github.com/CaffeineMC/sodium-fabric)) = ~45-60FPS (kinda playerble)
+- **Civilization V** = ~20-30FPS (Playable)
+- **Cvilization: Beyond Earth** = ~20-30FPS (Worst than Civ5 but weirdly playable)
+- **Portal 2** = ~40-60FPS (playble)
+- **Phoenix Wright: Ace Attorney** = ~50-60FPS (Very playble)
+- **Genshin Impact = ~10-20FPS** (Not playable and lots of artifacts)
+
+Note: the FPS's are really just estimates from my memory, please take it with a grain of salt (for now).
+
+As you might have read, I'm using the Nouveau drivers, as of Mesa 24.0.7 + Linux kernel 6.8.9, there's still no auto-reclocking support and OpenGL is still version 4.3, but luckily there's still much hope with potential NVK support, and since this is a Kepler-based GPU, manual reclocking is actually supported and that's what I've been doing whenever I'm playing a game.
+
+So these are the FPS I'm getting with the highest clock speed manually set then using the latest Proton (or [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom)) and forcing it to use WineD3D (DirectX to OpenGL) instead of the more efficient DXVK (DirectX to Vulkan).
+
+Another note: MacBooks have this weird thing where, if you use a third-party OS (Windows, Linux & etc), it will only enable the dGPU (my suspicion is because Apple used their own gmux technology for the GPU switching), but with OpenCore Legacy Patcher, we could actually spoof third-party OSes to allow access to both of the GPUs, but as of now I decided to have this option off for now, as I want to see the actual performance of the dGPU without it being affected by the more well supported iGPU.

@@ -20,8 +20,8 @@ platforms:
     icon: "fab fa-linkedin"
     link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
   #
-  # - type: Mastodon
-  #   icon: "fa-brands fa-mastodon"
+  - type: Mastodon
+    icon: "fa-brands fa-mastodon"
   #   # See: https://github.com/justinribeiro/share-to-mastodon#properties
   #   instances:
   #     - label: mastodon.social
