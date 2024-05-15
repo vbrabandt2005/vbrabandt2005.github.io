@@ -25,7 +25,7 @@ It was my main laptop that I used when I did the 42 Wolfsburg's Piscine program 
 
 ### Gaming stuff on Linux (WIP)
 
-- **Mesa 24.0.5 + Linux kernel 6.8.0**
+- **Linux kernel 6.8.0 + Mesa 24.0.5**
 - **Minecraft 1.20.4** (+ [Sodium](https://github.com/CaffeineMC/sodium-fabric)) = ~30FPS (kinda playerble)
 - **Civilization V** = ~ ~20-30FPS (Playable)
 - **Cvilization: Beyond Earth** = ~10-25FPS (Unplayable)

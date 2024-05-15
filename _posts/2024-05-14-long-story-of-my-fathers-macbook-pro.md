@@ -50,7 +50,7 @@ Despite the hardware hiccups, this trusty MacBook Pro has served me well. With a
 
 ### Gaming stuff on Linux (WIP)
 
-- **Mesa 24.0.7 + Linux kernel 6.8.9**
+- **Linux kernel 6.8.9 + Mesa 24.0.7**
 - **Minecraft 1.20.4** (+ [Sodium](https://github.com/CaffeineMC/sodium-fabric)) = ~45-60FPS (kinda playerble)
 - **Civilization V** = ~20-30FPS (Playable)
 - **Cvilization: Beyond Earth** = ~20-30FPS (Worst than Civ5 but weirdly playable)
