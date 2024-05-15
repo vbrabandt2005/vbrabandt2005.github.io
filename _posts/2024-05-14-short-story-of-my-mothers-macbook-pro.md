@@ -6,6 +6,8 @@ categories: [Computers, MacBooks]
 tags: [Computers, Software, Hardware, Apple, MacBook, Linux]
 ---
 
+This is my secondary computer and my main laptop as of now.
+
 ### Specs
 
 - **Name:** [Apple MacBook Pro 13" 2013](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i5-2.4-13-late-2013-retina-display-specs.html)
