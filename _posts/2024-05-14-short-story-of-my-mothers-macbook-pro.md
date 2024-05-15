@@ -17,7 +17,9 @@ tags: [Computers, Software, Hardware, Apple, MacBook, Linux]
 
 ### Story
 
-There isn't really much to say here really, this MacBook was bought for my mother by my father, but really I was the one who was using it most of the time, Back then I used to dual-boot MacOS & Windows 10, but after I started using my father's MacBook, It was returned to my mom, but she didn't really used it much.bulging system to MacOS Sonoma and installed Ubuntu 23.10 and it worked like a charm (MacOS Sonoma is kinda unoptimized for this old hardware though), I later repasted the CPU with Arctic MX-6 and upgraded the original 256GB SSD to a WD Black SN770 1TB.
+There isn't really much to say here really, this MacBook was bought for my mother by my father, but really I was the one who was using it most of the time, Back then I used to dual-boot MacOS & Windows 10, but after I started using my father's MacBook, It was returned to my mom, but she didn't really used it much, but after my father's/my main MacBook's battery started bulging, I took this Mac for myself and started using it again.
+
+I upgraded the system to MacOS Sonoma and installed Ubuntu 23.10 and it worked like a charm (MacOS Sonoma is kinda unoptimized for this old hardware though), I later repasted the CPU with Arctic MX-6 and upgraded the original 256GB SSD to a WD Black SN770 1TB.
 
 It was my main laptop that I used when I did the 42 Wolfsburg's Piscine program and did a lot of C coding and compiling with this MacBook.
 

@@ -24,7 +24,7 @@ Anyways, this is my father's last main MacBook Pro which I'm currently using as 
 
 #### Inheriting this thing
 
-I inherited this MacBook Pro from my dad, and despite its age, it served me well. It had some battle scars; the screen coating suffered from staingate (failing of the coating), and the speakers blew out. But I pushed through, using it until the battery began to bulge alarmingly. In January 2024, I invested in a new battery, speakers, and thermal paste to keep it going.
+I inherited this MacBook Pro from my dad, and despite its age, it served me well. It had some battle scars; the screen coating suffered from staingate (failing of the coating), and the speakers blew out. But I pushed through, using it until the battery began to bulge alarmingly. In January 2024, I invested in a new iFixit battery, pair of speakers, and Arctic MX-6 thermal paste to keep it going.
 
 #### Wolfsburg Woes
 
