@@ -25,10 +25,12 @@ It was my main laptop that I used when I did the 42 Wolfsburg's Piscine program 
 
 ### Gaming stuff on Linux (WIP)
 
-- Minecraft 1.20.4 = ~30FPS (kinda playerble)
-- Civilization V = ~ ~20-30FPS (Playable)
-- Portal 2 = ~30-60FPS (Too stuttery)
-- Phoenix Wright: Ace Attorney = ~30-50FPS (Very playble)
+- **Mesa 24.0.5 + Linux kernel 6.8.0**
+- **Minecraft 1.20.4** (+ [Sodium](https://github.com/CaffeineMC/sodium-fabric)) = ~30FPS (kinda playerble)
+- **Civilization V** = ~ ~20-30FPS (Playable)
+- **Cvilization: Beyond Earth** = ~10-25FPS (Unplayable)
+- **Portal 2** = ~30-60FPS (Too stuttery)
+- **Phoenix Wright: Ace Attorney** = ~30-50FPS (Very playble)
 
 note: the FPS's are really just estimates from my memory, please take it with a grain of salt (for now).
 
