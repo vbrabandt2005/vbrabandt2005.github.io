@@ -92,7 +92,7 @@ VLC has always been the standard for media players for a long time, but I've bee
 
 I really wish Foobar2000 had a Linux version, in my opinion it's probably the best Music player on desktops, so I tried to find alternatives, the best alternative I found was [Strawberry](https://www.strawberrymusicplayer.org) which works well enough for me.
 
-CD ripping might be an unusual topic but I'm a big defender of physical media (mainly Music & Movies) and have a big collection of CDs, back then I found dBpoweramp on Windows and oh my fricking god, it's so so good, but sadly there's no Linux version, so I've been using fre:ac & Audex.
+CD ripping might be an unusual topic but I'm a big defender of physical media (mainly Music & Movies) and I have a big collection of CDs, back then I found dBpoweramp on Windows and oh my fricking god, it's so so good, but sadly there's no Linux version, so I've been using fre:ac & Audex.
 
 ### Graphics
 
