@@ -48,6 +48,8 @@ The driver saga continues, though. Installing proprietary drivers on EndeavourOS
 
 Despite the hardware hiccups, this trusty MacBook Pro has served me well. With a fresh Linux install and a focus on open-source options, it's ready for a new chapter, even if the display drivers remain a work in progress.
 
+Oh um Linux still doesn't have proper drivers for the built-in webcam, I know there's an experimental driver out there, but honestly I don't really care for it much (plus knowing my webcam is not working, helps with my paranoia).
+
 ### Gaming stuff on Linux (WIP)
 
 - **Linux kernel 6.8.9 + Mesa 24.0.7**

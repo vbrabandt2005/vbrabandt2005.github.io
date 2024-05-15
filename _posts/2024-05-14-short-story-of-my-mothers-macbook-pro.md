@@ -23,6 +23,8 @@ I upgraded the system to MacOS Sonoma and installed Ubuntu 23.10 and it worked l
 
 It was my main laptop that I used when I did the 42 Wolfsburg's Piscine program and did a lot of C coding and compiling with this MacBook.
 
+Hardware-wise there aren't many issues, the battery health level is around 84%, I do plan to replace it later on when I can afford it. Software-wise, Linux still lacks the driver for the MacBook's built-in webcam, though I don't really care for it much.
+
 ### Gaming stuff on Linux (WIP)
 
 - **Linux kernel 6.8.0 + Mesa 24.0.5**
