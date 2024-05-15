@@ -31,7 +31,7 @@ This post is a list of all computers & software I use on the daily, plus some wr
 - **OS:** MacOS Sonoma + [OpenCore](https://github.com/dortania/OpenCore-Legacy-Patcher) & [Ubuntu 24.04 LTS](https://ubuntu.com/desktop)
 - **In-dept info:** [here](https://vbrabandt2005.github.io/posts/short-story-of-my-mothers-macbook-pro/)
 
-As I inherit both of these MacBooks from my parents, it was really my choice, I will write about the story and experinces with both of these (& other computers) later.
+As I inherit both of these MacBooks from my parents, it wasn't really my choice, I will write about the story and experinces with both of these (& other computers) later.
 
 ## My choice of Software
 
