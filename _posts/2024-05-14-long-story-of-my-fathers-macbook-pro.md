@@ -76,4 +76,4 @@ After doing some updates on MacOS (14.5), I decided to try Minecraft out and OMG
 
 But the discontinuation of 32bit software support and the fact that this system using OpenCoreLegacyPatcher isn't officially supported nor optimized for MacOS Sonoma means drivers can be unstable at times.
 
-Off-Topic: Honestly, I wish that Valve would implement Proton on MacOS (& [Asahi Linux](https://asahilinux.org/)) someday, especially since Apple's M-series arm chips has been so good, though this would understandably be hard since it would have to translate x86 to arm & also DirectX to Metal (Luckily there actually already are experimental projects which is attempting this).
+**Off-Topic:** Honestly, I wish that Valve would implement Proton on MacOS (& [Asahi Linux](https://asahilinux.org/)) someday, especially since Apple's M-series arm chips has been so good, though this would understandably be hard since it would have to translate x86 to arm & also DirectX to Metal (Luckily there actually already are experimental projects which is attempting this).
