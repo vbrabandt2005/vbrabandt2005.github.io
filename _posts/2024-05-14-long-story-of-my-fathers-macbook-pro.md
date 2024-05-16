@@ -53,11 +53,11 @@ Oh um Linux still doesn't have proper drivers for the built-in webcam, I know th
 ### Gaming stuff on Linux (WIP)
 
 - **Linux kernel 6.8.9 + Mesa 24.0.7**
-- **Minecraft 1.20.4** (+ [Sodium](https://github.com/CaffeineMC/sodium-fabric)) = ~45-60FPS (kinda playerble)
+- **Minecraft 1.20.4** (+ [Sodium](https://github.com/CaffeineMC/sodium-fabric)) = ~45-60FPS (kinda playable)
 - **Civilization V** = ~20-30FPS (Playable)
 - **Cvilization: Beyond Earth** = ~20-30FPS (Worst than Civ5 but weirdly playable)
 - **Portal 2** = ~40-60FPS (playble)
-- **Phoenix Wright: Ace Attorney** = ~50-60FPS (Very playble)
+- **Phoenix Wright: Ace Attorney** = ~50-60FPS (Very playable)
 - **Genshin Impact** = ~10-20FPS (Not playable and lots of artifacts)
 
 Note: the FPS's are really just estimates from my memory, please take it with a grain of salt (for now).
@@ -67,3 +67,13 @@ As you might have read, I'm using the Nouveau drivers, as of Mesa 24.0.7 + Linux
 So these are the FPS I'm getting with the highest clock speed manually set then using the latest Proton (or [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom)) and forcing it to use WineD3D (DirectX to OpenGL) instead of the more efficient DXVK (DirectX to Vulkan).
 
 Another note: MacBooks have this weird thing where, if you use a third-party OS (Windows, Linux & etc), it will only enable the dGPU (my suspicion is because Apple used their own gmux technology for the GPU switching), but with OpenCore Legacy Patcher, we could actually spoof third-party OSes to allow access to both of the GPUs, but as of now I decided to have this option off for now, as I want to see the actual performance of the dGPU without it being affected by the more well supported iGPU.
+
+#### Gaming on MacOS (WIP)
+
+- **Minecraft 1.20.6** (+ [Sodium](https://github.com/CaffeineMC/sodium-fabric)) = ~60-150FPS (Very playable)
+
+After doing some updates on MacOS (14.5), I decided to try Minecraft out and OMG ~60FPS buttery smooth. I've missed this.
+
+But the discontinuation of 32bit software support and the fact that this system using OpenCoreLegacyPatcher isn't officially supported nor optimized for MacOS Sonoma means drivers can be unstable at times.
+
+Off-Topic: Honestly, I wish that Valve would implement Proton on MacOS (& [Asahi Linux](https://asahilinux.org/)) someday, especially since Apple's M-series arm chips has been so good, though this would understandably be hard since it would have to translate x86 to arm & also DirectX to Metal (Luckily there actually already are experimental projects which is attempting this).
