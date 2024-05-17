@@ -129,7 +129,8 @@ Again I don't do video editing on the daily, but whenever I need to then Kdenliv
 - **GOG & Epic launcher:** [Heroic Games Laucher](https://heroicgameslauncher.com)
 - **Hidden Indie gems**: [Itch.io](https://Itch.io)
 - **A better Minecraft launcher:** [Prism Launcher](https://prismlauncher.org)
-- **Misc:** [An Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) & [The Honkers Railway Launcher](https://github.com/an-anime-team/the-honkers-railway-launcher)
+- **Anime Games:** [An Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) & [The Honkers Railway Launcher](https://github.com/an-anime-team/the-honkers-railway-launcher)
+- **Misc:** [Lutris](https://lutris.net/)
 
 I mean who doesn't like Steam (ok, well Tim Sweeny at Epic), but seriously, there's a reason why Steam is so huge, firstly the launcher is legitimately good, they have fair prices, they have a good support team and they support open-source.
 
