@@ -131,7 +131,7 @@ Again I don't do video editing on the daily, but whenever I need to then Kdenliv
 - **A better Minecraft launcher:** [Prism Launcher](https://prismlauncher.org)
 - **Anime Games:** [An Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) & [The Honkers Railway Launcher](https://github.com/an-anime-team/the-honkers-railway-launcher)
 - **Misc:** [Lutris](https://lutris.net/)
-- - **Proton-GE management:** [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/)
+- **Proton-GE management:** [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/)
 
 I mean who doesn't like Steam (ok, well Tim Sweeny at Epic), but seriously, there's a reason why Steam is so huge, firstly the launcher is legitimately good, they have fair prices, they have a good support team and they support open-source.
 
