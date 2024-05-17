@@ -3,7 +3,7 @@ layout: post
 title: Short story of my mother's MacBook Pro
 date: 2024-05-14 21:00 +0200
 categories: [Computers, MacBooks]
-tags: [Computers, Software, Hardware, Apple, MacBook, Linux]
+tags: [Computers, Software, Hardware, Apple, MacBook, Linux, Gaming]
 ---
 
 ### Specs

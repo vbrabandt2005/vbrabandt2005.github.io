@@ -3,7 +3,7 @@ layout: post
 title: My tech equipments & software for 2024
 date: 2024-05-13 05:47 +0200
 categories: [Computers]
-tags: [Computers, Software, Hardware, Apple, MacBook, Linux]
+tags: [Computers, Software, Hardware, Apple, MacBook, Linux, Gaming]
 ---
 
 This post is a list of all computers & software I use on the daily, plus some written reasons of why I use them. Note: this doesn't include Android apps as I'll probably write another post for them.
@@ -143,6 +143,10 @@ I've been using Prism Launcher even before I switched to Linux. It has multiple 
 [An Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) & [The Honkers Railway Launcher](https://github.com/an-anime-team/the-honkers-railway-launcher) provide a native Linux solution for launching games from a certain "anime games" company. Unlike the original launchers, these launchers offer additional features such as language voice pack management, FPS unlocking, FSR upscaling, and more.
 
 (P.S. I'm really proud to have contributed the Thai translations for these two "anime games" launchers!)
+
+Usually I always play with Proton(GE)/Wine enabled, as I found most Linux Native versions of games to be inferior to the Windows version (except for some indie games), some games have quite good native ports but most of time I found it's saves to be incompatible with Windows (like Civ5, Tomb Raider & VA-11 Hall-A for example), me like cross-platform ok, it would annoy me a lot if I try to play one of these games on Windows and find my game saves to be incompatible.
+
+Overall, gaming on Linux has been shockingly & impressively good, I don't think out of all the games I'm currently playing I haven't seen any real big issues (except for DXVK not being support on my computers or some audio-crackling).
 
 ### Misc
 

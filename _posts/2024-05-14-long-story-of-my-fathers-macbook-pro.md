@@ -3,7 +3,7 @@ layout: post
 title: Long story of my father's MacBook Pro
 date: 2024-05-14 05:47 +0200
 categories: [Computers, MacBooks]
-tags: [Computers, Software, Hardware, Apple, MacBook, Linux]
+tags: [Computers, Software, Hardware, Apple, MacBook, Linux, Gaming]
 ---
 
 In this post, I actually wanted to list all my Computers and equipment, but after writing some stuff, I'd ended up with too long of a text to keep everything, so I'm going to seperate them out to different posts.
