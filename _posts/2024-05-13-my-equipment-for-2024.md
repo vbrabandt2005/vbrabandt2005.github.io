@@ -131,6 +131,7 @@ Again I don't do video editing on the daily, but whenever I need to then Kdenliv
 - **A better Minecraft launcher:** [Prism Launcher](https://prismlauncher.org)
 - **Anime Games:** [An Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) & [The Honkers Railway Launcher](https://github.com/an-anime-team/the-honkers-railway-launcher)
 - **Misc:** [Lutris](https://lutris.net/)
+- - **Proton-GE management:** [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/)
 
 I mean who doesn't like Steam (ok, well Tim Sweeny at Epic), but seriously, there's a reason why Steam is so huge, firstly the launcher is legitimately good, they have fair prices, they have a good support team and they support open-source.
 
@@ -152,7 +153,6 @@ Overall, gaming on Linux has been shockingly & impressively good, I don't think 
 
 - **Scanning program:** [NAPS2](https://www.naps2.com)
 - **Discord client:** [Vesktop](https://github.com/Vencord/Vesktop) & [Armcord](https://github.com/ArmCord/ArmCord)
-- **Proton-GE management:** [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/)
 - **System Info:** [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X)
 
 This list might not be complete, but will be updated over months & years, but yeah if you actually read everything idk you're crazy lol.
