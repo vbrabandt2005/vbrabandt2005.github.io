@@ -1,6 +1,6 @@
 # Repository of vbrabandt2005.github.io
 
-`Chripy = 7.0.0`
+`Chripy = 7.0.1`
 
 ## Why did I create this site?
 
