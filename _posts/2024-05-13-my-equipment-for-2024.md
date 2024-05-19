@@ -42,7 +42,7 @@ As I inherit both of these MacBooks from my parents, it wasn't really my choice,
 - **OS for older computers:** [Ubuntu MATE](https://ubuntu-mate.org) & [Linux Mint](https://linuxmint.com)
 - **OS for Productivity, Music editing:** MacOS
 
-After trying out Linux, I haven't found a reason to go back to daily driving Windows, since I play some Anti-cheat games, I might want to dual boot, but still I just find Linux to be more exciting to use than Windows (and that's saying as early Windows 11 user/defender).
+After trying out Linux, I haven't found a reason to go back to daily driving Windows, since I play some Anti-cheat games, I might want to dual boot, but still I just find Linux to be more exciting to use than Windows (and that's saying as an early Windows 11 user/defender).
 
 I honestly don't really care much about which Linux Distros to use, as most distros I would use are all either Debian/Ubuntu-based or Arch-based, though I still tend to prefer the 2 main desktop enviorment [Gnome](https://www.gnome.org) & [KDE Plasma](https://kde.org/plasma-desktop) for daily drive use, which between the two I prefer? honestly depends on what computer I'm installing it on (usually simple [Gnome](https://www.gnome.org) on Laptops & Customizable [KDE Plasma](https://kde.org/plasma-desktop) on Desktop).
 
