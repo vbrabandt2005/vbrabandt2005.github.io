@@ -15,4 +15,4 @@ order: 5
 
 ## Email
 
-My Public email is <vbrabandt@proton.me>
+My Buiness email is <vbrabandt@proton.me>
