@@ -50,6 +50,10 @@ Sadly as a musician, I have become accustomed to Garageband/Logic and I haven't 
 
 ### Package Managers
 
+- [UpdateMe](https://github.com/vbrabandt2005/General-Scripts/tree/main/UpdateMe), my personal all in one update script
+
+(it sucks code wise, but I mean it's just a shell script and it works for me)
+
 #### Debain/Ubuntu-based
 
 - [Nala](https://gitlab.com/volian/nala), a apt frontend
@@ -58,6 +62,11 @@ Sadly as a musician, I have become accustomed to Garageband/Logic and I haven't 
 ##### Appimages
 
 - [Gear Lever](https://github.com/mijorus/gearlever), a handy GUI for managing Appimages
+
+##### Flatpak
+
+- [Warehouse](https://github.com/flattool/warehouse), a versatile toolbox for Flatpak
+- [Flatseal](https://github.com/tchx84/flatseal), a Flatpak permissions manager
 
 ### Browsers
 
@@ -96,10 +105,10 @@ CD ripping might be an unusual topic but I'm a big defender of physical media (m
 
 ### Graphics
 
-- [Krita](https://krita.org)
-- [Gimp](https://www.gimp.org)
-- [Inkscape](https://inkscape.org)
-- Asprite (or LibreSprite)
+- **Drawing/painting software:** [Krita](https://krita.org)
+- **Raster graphics editor:** [Gimp](https://www.gimp.org)
+- **Vector graphics editor:** [Inkscape](https://inkscape.org)
+- **Pixel Art:** [Asprite](https://www.aseprite.org/) (or [LibreSprite](https://libresprite.github.io/))
 
 I can't write much about these as I wouldn't consider myself an expert in this aspect, but these 3 programs I have listed out I always have installed and trust in case I ever need them, special mention for Krita, it's so good I actually paid for it on Steam dispite it being free.
 
@@ -117,9 +126,8 @@ My current tryout list are Logic & [Bitwig](https://www.bitwig.com).
 
 ### Video-editing
 
-- [Kdenlive](https://kdenlive.org/)
-- [Shotcut](https://shotcut.org)
-- [OBS](https://obsproject.com)
+- **Video editors:** [Kdenlive](https://kdenlive.org/) & [Shotcut](https://shotcut.org)
+- **Video capture:** [OBS](https://obsproject.com)
 
 Again I don't do video editing on the daily, but whenever I need to then Kdenlive & Shotcut are my prefered video-editor, both are cross-platform & Open-source. I want to try out Final Cut Pro in the future though. For screen-capture then OBS is a must of course.
 
@@ -152,7 +160,15 @@ Overall, gaming on Linux has been shockingly & impressively good, I don't think 
 ### Misc
 
 - **Scanning program:** [NAPS2](https://www.naps2.com)
-- **Discord client:** [Vesktop](https://github.com/Vencord/Vesktop) & [Armcord](https://github.com/ArmCord/ArmCord)
+- **Third-party Discord client:** [Vesktop](https://github.com/Vencord/Vesktop) & [Armcord](https://github.com/ArmCord/ArmCord)
+- **Torrenting:** [qBittorrent](https://www.qbittorrent.org)
+- **Software sharing:** [Localsend](https://localsend.org) & [RQuickshare](https://github.com/Martichou/rquickshare)
 - **System Info:** [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X)
+
+[NAPS2](https://www.naps2.com) is probably the best free & open-source document scanning software, not much to say really, it's cross-platform and quite cool idk.
+
+I don't actually endours you breaking the TOS of Discord, except on Linux because the Discord client on linux kinda sucks sometimes and recieve less priority than other versions (Honestly if Valve owned Discord, it would be so much better lol).
+
+Sadly I was introduced to pirating quite young (by my father in fact), I don't do it any more, but I still use it when downloading Linux ISOs. Out of all the Torrent clients out there, [qBittorrent](https://www.qbittorrent.org) is closes to the original µTorrent client, but it's 100x better ethically and feature-wise.
 
 This list might not be complete, but will be updated over months & years, but yeah if you actually read everything idk you're crazy lol.
