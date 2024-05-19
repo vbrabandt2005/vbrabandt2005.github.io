@@ -6,7 +6,9 @@ categories: [Computers]
 tags: [Computers, Software, Hardware, Apple, MacBook, Linux, Gaming]
 ---
 
-This post is a list of all computers & software I use on the daily, plus some written reasons of why I use them. Note: this doesn't include Android apps as I'll probably write another post for them.
+This post is a list of all computers & software I use on the daily, plus some written reasons of why I use them.
+
+Note: this doesn't include Android apps as I'll probably write another post for them.
 
 ## My computers
 
