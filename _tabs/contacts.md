@@ -15,4 +15,4 @@ order: 5
 
 ## Email
 
-My Buiness email is <vbrabandt@proton.me>
+My business email is <vbrabandt@proton.me>
