@@ -65,7 +65,7 @@ Yes, I said it right, **Capybaras** eat a lot, which makes them the perfect subs
 
 As you can see in the video **Capybaras** are very fast, they are also fast runners and swimmers, though they usually only goes fast only when they have to.
 
-### 9. **Capy** is side-eyes very ***sassily***
+### 9. **Capy** can side-eye very ***sassily***
 
 I have found multiple pictures which shows clear evidence that **Capybaras** have the ability to judge other animals & humans by ***side-eyeing*** at them agressively and ***sassily***, their amount of ***sass*** is so high that us humans (& even the best AIs) can't understand the amount of ***sass*** that **Capybara** has.
 
