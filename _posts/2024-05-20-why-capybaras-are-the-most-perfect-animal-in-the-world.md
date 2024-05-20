@@ -42,7 +42,7 @@ Capybaras has evolved to fly up into the sky like superman.
 
 ### 6. Capybara never commit war crimes (only some cases)
 
-Despite being abused by the evil pelicans multiple times in history, Capybaras have only eaten a total of 3 duck feathers as revenge for the evil pelican crimes.
+Despite being abused by the evil **PELICANS** multiple times in history, Capybaras have only eaten a total of 3 duck feathers as revenge for the evil pelican crimes.
 
 Dogs and Capybaras have a complicated relationships, since some dogs still mistakenly see Capybaras as enimies, sometimes dogs terrorize Capybaras by mistake.
 
