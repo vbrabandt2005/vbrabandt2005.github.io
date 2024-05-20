@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 reasons why Capybaras are the most perfect animals in the world
+title: 11 reasons why Capybaras are the most perfect animals in the world (WIP)
 date: 2024-05-20 05:36 +0200
 categories: [Animals, Capybara]
 tags: [Opinion, Capybara, Animals]
@@ -14,13 +14,13 @@ Capybaras are so adorable, I just want to give them scratchies.
 
 ![Sniffles](https://i.imgur.com/2wStjjd.jpg){: w="400" h="400"}
 
-### 2. Capybaras are round like a coconut
+### 2. Capybaras are round anf floof like a coconut
 
 ![Coconut doggo](https://i.imgur.com/6KlOjij.jpg){: w="400" h="400"}
 
 ### 3. Capybaras is the perfect mixture of Dogs & Guinea pigs
 
-What is a Capybara? Capybaras are basically an oversize Guinea Pig that can swim, a Guinea Big or Water Pig (some might say). They are also almost the size of Dogs, making them suitable for the nickname Coconut-doggos.
+What is a Capybara? Capybaras are basically oversize Guinea Pigs that can swim, some might say a Guinea Big or Water Pig. They are also almost the size of Dogs, making them suitable for the nickname Coconut-doggos.
 
 ### 4. Capy slay
 
