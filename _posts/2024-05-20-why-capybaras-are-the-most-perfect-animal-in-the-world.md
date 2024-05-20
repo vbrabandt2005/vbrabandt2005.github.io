@@ -54,7 +54,7 @@ Yes, I said it right, Capybaras eat a lot, which makes them the perfect substitu
 
 {%
   include embed/video.html
-  src='https://i.imgur.com/Y8rDedz.mp4'
+  src='<https://i.imgur.com/Y8rDedz.mp4>'
   loop=true
 %}
 
