@@ -12,12 +12,11 @@ tags: [Opinion, Capybara, Animals]
 
 Capybaras are so adorable, I just want to give them scratchies.
 
-![Sniffles](https://i.imgur.com/KWP9iOp.jpg){: .left }
-![Sniffles2](https://i.imgur.com/2wStjjd.jpg){: .right }
+![Sniffles](https://i.imgur.com/2wStjjd.jpg){: h=400 w=400}
 
 ### 2. Capybaras are round like a coconut
 
-![Coconut doggo](https://i.imgur.com/6KlOjij.jpg)
+![Coconut doggo](https://i.imgur.com/6KlOjij.jpg){: h=400 w=400}
 
 ### 3. Capybaras is the perfect mixture of Dogs & Guinea pigs
 
