@@ -12,11 +12,11 @@ tags: [Opinion, Capybara, Animals]
 
 Capybaras are so adorable, I just want to give them scratchies.
 
-![Sniffles](https://i.imgur.com/2wStjjd.jpg){: h=400 w=400}
+![Sniffles](https://i.imgur.com/2wStjjd.jpg){: w="400" h="400"}
 
 ### 2. Capybaras are round like a coconut
 
-![Coconut doggo](https://i.imgur.com/6KlOjij.jpg){: h=400 w=400}
+![Coconut doggo](https://i.imgur.com/6KlOjij.jpg){: w="400" h="400"}
 
 ### 3. Capybaras is the perfect mixture of Dogs & Guinea pigs
 
@@ -36,7 +36,7 @@ If we don't join the Capybaras now, they will turn us into slaves.
 
 ### 7. Capybara never commit war crimes (only some cases)
 
-Despite being abused by the evil pelicans multiple times in history, Capybaras have only eaten a total of 3 duck feathers as revenge of the evil pelican crimes.
+Despite being abused by the evil pelicans multiple times in history, Capybaras have only eaten a total of 3 duck feathers as revenge for the evil pelican crimes.
 
 Dogs and Capybaras have a complicated relationships, since some dogs still mistakenly see Capybaras as enimies, sometimes dogs terrorize Capybaras by mistake.
 
