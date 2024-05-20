@@ -4,6 +4,7 @@ title: 10 reasons why Capybaras are the most perfect animals in the world
 date: 2024-05-20 05:36 +0200
 categories: [Animals, Capybara]
 tags: [Opinion, Capybara, Animals]
+image: https://i.imgur.com/UtP2Cwd.jpeg
 ---
 
 ## Why **Capybaras** are the best
