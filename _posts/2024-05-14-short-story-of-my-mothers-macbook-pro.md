@@ -28,11 +28,11 @@ Hardware-wise there aren't many issues, the battery health level is around 84%, 
 ### Gaming stuff on Linux (WIP)
 
 - **Linux kernel 6.8.0 + Mesa 24.0.5**
-- **Minecraft 1.20.4** (+ [Sodium](https://github.com/CaffeineMC/sodium-fabric)) = ~30FPS (kinda playerble)
+- **Minecraft 1.20.4** (+ [Sodium](https://github.com/CaffeineMC/sodium-fabric)) = ~30FPS (kinda playable)
 - **Civilization V** = ~ ~20-30FPS (Playable)
 - **Cvilization: Beyond Earth** = ~10-25FPS (Unplayable)
 - **Portal 2** = ~30-60FPS (Too stuttery)
-- **Phoenix Wright: Ace Attorney** = ~30-50FPS (Very playble)
+- **Phoenix Wright: Ace Attorney** = ~30-50FPS (Very playable)
 
 note: the FPS's are really just estimates from my memory, please take it with a grain of salt (for now).
 
