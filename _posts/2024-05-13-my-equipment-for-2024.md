@@ -54,7 +54,7 @@ Sadly as a musician, I have become accustomed to Garageband/Logic and I haven't 
 
 - [UpdateMe](https://github.com/vbrabandt2005/General-Scripts/tree/main/UpdateMe), my personal all in one update script
 
-(it sucks code wise, but I mean it's just a shell script and it works for me)
+(it sucks code wise, but I mean it's just a shell script and it works)
 
 #### Debain/Ubuntu-based
 
@@ -69,6 +69,14 @@ Sadly as a musician, I have become accustomed to Garageband/Logic and I haven't 
 
 - [Warehouse](https://github.com/flattool/warehouse), a versatile toolbox for Flatpak
 - [Flatseal](https://github.com/tchx84/flatseal), a Flatpak permissions manager
+
+### Terminal
+
+- **Terminal emulator (Windows):** [Windows Terminal](https://github.com/microsoft/terminal)
+- **Terminal emulator (MacOS):** [iTerm2](https://iterm2.com)
+- **Terminal emulator (Linux):** [GNOME Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal), [Konsole](https://konsole.kde.org) & [Alacritty](https://github.com/alacritty/alacritty)
+- **Shell:** Zsh + [Oh My Zsh](https://ohmyz.sh/)
+- **Prompt:** [Starship](https://starship.rs/) + [Tokyo Night](https://starship.rs/presets/tokyo-night)
 
 ### Browsers
 
