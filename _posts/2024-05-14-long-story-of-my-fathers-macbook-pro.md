@@ -52,13 +52,18 @@ Oh um Linux still doesn't have proper drivers for the built-in webcam, I know th
 
 ### Gaming stuff on Linux (WIP)
 
-- **Linux kernel 6.8.9 + Mesa 24.0.7**
-- **Minecraft 1.20.4** (+ [Sodium](https://github.com/CaffeineMC/sodium-fabric)) = ~45-60FPS (kinda playable)
-- **Civilization V** = ~20-30FPS (Playable)
-- **Cvilization: Beyond Earth** = ~20-30FPS (Worst than Civ5 but weirdly playable)
-- **Portal 2** = ~40-60FPS (playble)
-- **Phoenix Wright: Ace Attorney** = ~50-60FPS (Very playable)
-- **Genshin Impact** = ~10-20FPS (Not playable and lots of artifacts)
+#### **Linux kernel 6.8.9 + Mesa 24.0.7**
+
+- **Minecraft 1.20.4** (+ [Sodium](https://github.com/CaffeineMC/sodium-fabric)) = ~45-60FPS @ 1080p (kinda playable)
+- **Civilization V** = ~20-30FPS @ 1080p (Playable)
+- **Cvilization: Beyond Earth** = ~20-30FPS @ 1080p (Worst than Civ5 but weirdly playable)
+- **Portal 2** = ~40-60FPS @ 1080p (playble)
+- **Phoenix Wright: Ace Attorney** = ~50-60FPS @ 1080p (Very playable)
+- **Genshin Impact** = ~10-20FPS @ 1080p (Not playable and lots of artifacts)
+
+#### **Linux kernel 6.9.2 + Mesa 24.0.8**
+
+- L.A. Noire = ~15FPS @ 720p (weirdly impressive but not playable)
 
 Note: the FPS's are really just estimates from my memory, please take it with a grain of salt (for now).
 

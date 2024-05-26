@@ -27,7 +27,8 @@ Hardware-wise there aren't many issues, the battery health level is around 84%, 
 
 ### Gaming stuff on Linux (WIP)
 
-- **Linux kernel 6.8.0 + Mesa 24.0.5**
+#### **Linux kernel 6.8.0 + Mesa 24.0.5**
+
 - **Minecraft 1.20.4** (+ [Sodium](https://github.com/CaffeineMC/sodium-fabric)) = ~30FPS (kinda playable)
 - **Civilization V** = ~ ~20-30FPS (Playable)
 - **Cvilization: Beyond Earth** = ~10-25FPS (Unplayable)
