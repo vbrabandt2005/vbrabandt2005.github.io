@@ -44,7 +44,7 @@ Losing faith with Windows, and having positive experiences with Ubuntu on other 
 
 #### Driver Dilemma
 
-The driver saga continues, though. Installing proprietary drivers on EndeavourOS (kernel version 6.8.9) proved unsuccessful. Honestly, I'm hesitant to use official Nvidia drivers anymore. They're outdated and don't support Wayland support. So, I'm sticking with the open-source Nouveau drivers for now. Yes, the performance isn't ideal, but at least they're still actively maintained, and for my Kepler-based GPU, the upcoming Vulkan driver, NVK, might even outperform the old official Nvidia drivers.
+The driver saga continues, though. Installing proprietary drivers on EndeavourOS (kernel version 6.8.9) proved unsuccessful. Honestly, I'm hesitant to use official Nvidia drivers anymore. They're outdated and don't support Wayland. So, I'm sticking with the open-source Nouveau drivers for now. Yes, the performance isn't ideal, but at least they're still actively maintained, and for my Kepler-based GPU, the upcoming Vulkan driver, NVK, might even outperform the old official Nvidia drivers.
 
 Despite the hardware hiccups, this trusty MacBook Pro has served me well. With a fresh Linux install and a focus on open-source options, it's ready for a new chapter, even if the display drivers remain a work in progress.
 
