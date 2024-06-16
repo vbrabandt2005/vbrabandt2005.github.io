@@ -157,9 +157,3 @@ This might be a controversial, but I feel the Covid pandemic has effected Wolfsb
 The area around the newly-built designer-outlet feels like a place meant for rich people, there are fancy stores, but there aren't actually many people there and it has a very weird maze feel, I remembered when I was walking around I was unable to find my way out and architecturally feels very out of place when you remember that the old City-Galarie is still there.
 
 `Note: my memory maybe be hazy, but that's genuinly how I feel`
-
-## Closing thoughts
-
-Really off-topic, but I was once told that I need to learn to be content with what I/we have, I disagree, but I will try, I'm tired, although I'm grateful for what Germany has given, I blame it for taking 7-8 years of my teenage hood away, I'm grateful that I'm receiving some financial help, but I cannot forgive that it took my dreams away, they say I should be grateful for the system, but for 7-8 years I have been rejected by society and declined when I had asked for help, I'm grateful for the people that were around for me, but I know no one will ever be my saviour.
-
-I'm grateful for 42, but its community feels pretentious, it feels like everyone is pretending to be friendly, but in truth when you're in trouble, they say "read the manual", "ask your peers" or whatever, we're told we'll probably get a job, but I'm sure the jobs and the skills we'll get will never be the same as going to university, I'm sorry for saying it, but I'm still pessimistic about life.
