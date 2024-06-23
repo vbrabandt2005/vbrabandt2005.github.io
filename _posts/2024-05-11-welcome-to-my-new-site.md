@@ -10,15 +10,15 @@ tags: [Websites, Blogs, Personal]
 
 ### Why did I create this site?
 
-I intended to create this site as an experiment and as a way to express myself without relying on social media, most social media sites in my opinion are no longer designed for long posts anymore.
+I intended to create this site as an experiment and as a way to express myself without relying on social media, most social media sites in my opinion are no longer designed for long posts any more.
 
-### Why did I choose Github pages + Jekyll instead of another service?
+### Why did I choose GitHub pages + Jekyll instead of another service?
 
-Well firstly, I confess I can't afford a personal domain yet, so that explains why I'm using Github pages (plus I really like the openness of Github/Open-source).
+Well firstly, I confess I can't afford a personal domain yet, so that explains why I'm using GitHub pages (plus I really like the openness of GitHub/Open-source).
 
-I admit I have no experience at UI design (& I'm sorry but I don't want to ever get into HTML/CSS), I just want a simple blog style site with a minimalist/utilitarian kinda feel, but I found Squarespace/Wix to be designed more for portfolios and businesses, I once had a Wordpress site, but I didn't enjoy it's editor.
+I admit I have no experience at UI design (& I'm sorry, but I don't want to ever get into HTML/CSS), I just want a simple blog style site with a minimalist/utilitarian kinda feel, but I found Squarespace/Wix to be designed more for portfolios and businesses, I once had a WordPress site, but I didn't enjoy its editor.
 
-My plan is I will my make blog with Github Pages and one day I will make a portfolio/CV website on either Squarespace or Wix.
+My plan is I will my make blog with GitHub Pages and one day I will make a portfolio/CV website on either Squarespace or Wix.
 
 ### What to expect?
 
@@ -45,7 +45,7 @@ I don't have a plan planned out, but I've been thinking of writing about:
 
 ### Are things here open-source?
 
-Answer is most will be, but I'm still learning about licenses and I will probably keep some stuff (such as photos/audios) copyrighted, but if you need anything from a post then feel free to ask for permission.
+Answer is most will be, but I'm still learning about licences and I will probably keep some stuff (such as photos/audio) copyrighted, but if you need anything from a post then feel free to ask for permission.
 
 ### A note on commenting
 
