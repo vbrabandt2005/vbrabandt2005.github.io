@@ -10,7 +10,7 @@ tags: [Music, Music for the month, review]
 
 Music for the month is simply a monthly post of my favourite songs and albums of the month.
 
-## Favourite songs
+## Favourite song
 
 ### Ceremony - New Order
 
