@@ -14,7 +14,7 @@ Music for the month is simply a monthly post of my favourite songs and albums of
 
 ### Ceremony - New Order
 
-{% include embed/youtube.html id='cedNya7e8Uc' %}
+{% include embed/youtube.html id='kkASIx9Xk6s' %}
 
 I first heard of this song from a Radiohead livestream cover of this song (and a few others) and when I heard the high-treble crush guitar riff, I felt like this was my thing, I felt like I needed to listen to the original.
 
