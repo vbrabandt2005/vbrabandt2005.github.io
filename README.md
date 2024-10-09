@@ -6,7 +6,7 @@
 
 I intended to create this site as an experiment and as a way to express myself without relying on social media, most social media sites in my opinion are no longer designed for long posts anymore.
 
-TLDR; basically it's a personal blog
+>TLDR; basically it's a personal blog
 
 ## Why did I choose Github pages + Jekyll instead of another service?
 
