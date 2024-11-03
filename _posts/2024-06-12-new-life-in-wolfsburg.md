@@ -3,7 +3,7 @@ layout: post
 title: A new student for 42 Wolfsburg, a new life for me
 date: 2024-06-12 00:30 +0200
 categories: [Life]
-tags: [Computers, Software, Life, 42 Wolfsburg, Wolfsburg]
+tags: [computers, software, life, 42 wolfsburg, wolfsburg, personal]
 ---
 
 ## High school dropout
@@ -114,7 +114,7 @@ We also got our first project called Piscine-Reloaded, which is basically the sa
 
 We also got introduced to the new "Milestone" system, which basically sets a deadline for you depending on how fast you want to finish the core-curriculum, I didn't know about this at first and accidentally chose the 12 months (35-45 hour per week) choice, but the worry though, you can move between them depending on how fast you want to progress (I personally plan to be in between 12 and 15 months), but if you're not progressing at all, then you will be expelled from 42.
 
-Very off-topic, but I actually cooked something unique this time, I invited my Mongolian 42-mate and close-friend over to my flat to help me cook and eat some Japanese Curry, we bought some needed ingredients and a new cooking pan, but then we found out that the expensive Tefal Pan I bought was incompatible with the induction stove, which was quite sad since I spent a lot of money on it, and so I asked my korean friends if I could borrow their pan, but we somehow succeeded and spent like 5-7 hours just eating and talking.
+Very off-topic, but I actually cooked something unique this time, I invited my Mongolian 42-mate and close-friend over to my flat to help me cook and eat some Japanese Curry, we bought some needed ingredients and a new cooking pan, but then we found out that the expensive Tefal Pan I bought was incompatible with the induction stove, which was quite sad since I spent a lot of money on it, and so I asked my Korean friends if I could borrow their pan, but we somehow succeeded and spent like 5-7 hours just eating and talking.
 
 ### Stressful second week
 
@@ -154,6 +154,6 @@ I feel like there's a lost opportunity, Wolfsburg is approximately in the middle
 
 This might be a controversial, but I feel the Covid pandemic has effected Wolfsburg a lot, back in 2018, I had a class trip here in Wolfsburg and I remembered Wolfsburg to be much more alive than now, the area around the City-Galerie mall used to be much more active, lots of the shops which were open back then are now closed.
 
-The area around the newly-built designer-outlet feels like a place meant for rich people, there are fancy stores, but there aren't actually many people there and it has a very weird maze feel, I remembered when I was walking around I was unable to find my way out and architecturally feels very out of place when you remember that the old City-Galarie is still there.
+The area around the newly-built designer-outlet feels like a place meant for rich people, there are fancy stores, but there aren't actually many people there, and it has a very weird maze feel, I remembered when I was walking around I was unable to find my way out and architecturally feels very out of place when you remember that the old City-Galarie is still there.
 
 `Note: my memory maybe be hazy, but that's genuinly how I feel`

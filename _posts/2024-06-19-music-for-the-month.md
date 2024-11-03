@@ -3,7 +3,7 @@ layout: post
 title: Music for the month - June 2024
 date: 2024-06-22 13:30 +0200
 categories: [Music, Music for the month]
-tags: [Music, Music for the month, review]
+tags: [music, music for the month, review]
 ---
 
 ## What's music for the month?
