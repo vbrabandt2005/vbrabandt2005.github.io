@@ -3,7 +3,7 @@ layout: post
 title: 10 reasons why Capybaras are the most perfect animals in the world
 date: 2024-05-20 05:36 +0200
 categories: [Animals, Capybara]
-tags: [Opinion, Capybara, Animals]
+tags: [opinion, capybara, animals]
 image: https://i.imgur.com/UtP2Cwd.jpeg
 ---
 
@@ -33,7 +33,7 @@ What is a **Capybara**? **Capybaras** are basically oversize Guinea Pigs that ca
 
 ![Capyfly](https://i.imgur.com/faEJ8gz.jpg){: w="400" h="400"}
 
-**Capybaras** has evolved to fly up into the sky like superman.
+**Capybaras** have evolved to fly up into the sky like superman.
 
 ### 5. **Capy** will colonize the universe and create their own civilization
 
