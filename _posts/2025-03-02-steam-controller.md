@@ -15,9 +15,9 @@ So, weirdly for Christmas, I randomly thought to myself that I want a [Steam Con
 
 First time holding it felt really nice, yes, it's not the usual controller style, but despite its large OG Xbox-style big design, I got used to it really quickly to be honest.	
 
-> My advice to anyone in using the Steam controller is instead of using your middle fingers to grip the controller, place both your index and middle fingers on bumper buttons and triggers always, this way, your thumbs will be in the proper angle making it easier to use the buttons and the touchpads.
+> My advice to anyone in using the Steam controller is instead of using your middle fingers to grip the controller, place both your index and middle fingers on bumper buttons and triggers always, this way, your thumbs will be at the proper angle making it easier to use the buttons and the touchpads.
 
-Personally, the glossy-style-plastic feel rather cheap to the touch, in general it felt as if Valve had dumped so many technologies into this controller that to lower the cost, they had to use cheaper plastics, I mean it's not bad, and I don't think it will break anytime soon, all I'm saying is, it's no Xbox 360 Controller.
+Personally, the glossy-style plastic feels rather cheap to the touch, In general it felt as if Valve had dumped so many technologies into this controller that to lower the cost, they had to use cheaper plastics, I mean it's not bad, and I don't think it will break anytime soon, all I'm saying is, it's no Xbox 360 Controller.
 
 Using it for the first time felt like a charm, the Steam integration with the Steam Client was really great and for the most parts worked out of the box.
 
@@ -27,21 +27,21 @@ During my research, I discovered Valve released an Update which enabled Bluetoot
 
 Although I compliment the good Steam Input API integration, since the new Steam Big Picture UI update, Valve had removed the ability to update the Steam Controller entirely.
 
-So I had to find a way, Valve released [.bat files and instructions](https://help.steampowered.com/en/faqs/view/1796-5FC3-88B3-C85F) for updating the controller on Windows, but I happen to be one of those Linux users, so I'm stuck, I tried using Wine, but sadly the constant reconnection and restarting of the controller has to do while updating made it frankly impossible to use the .bat files to update the controller through Wine on Linux easily.
+So I had to find a way, Valve released [.bat files and instructions](https://help.steampowered.com/en/faqs/view/1796-5FC3-88B3-C85F) for updating the controller on Windows, but I happen to be one of those Linux users, so I'm stuck, I tried using Wine, but sadly, the constant reconnection and restarting of the controller during the update process made it frankly impossible to use the .bat files to update the controller through Wine on Linux easily.
 
-In the end I had to "hack" my way through by making a Windows virtual machine and install a 2018 build of Steam (with the old Steam UI), forward in my Steam Controller into the VM and update it that way.
+In the end I had to "hack" my way through by making a Windows virtual machine and install a 2018 build of Steam (with the old Steam UI), forward my Steam Controller into the VM and update it that way.
 
 It was painful and took me hours, but in the end I now have the entire capabilities of Steam Controller.
 
 On a genuine note, I'm surprised and really sad to see Valve no longer really caring about updating their own controller through their own client, I'm not asking for Valve to continue making new updates for the controller, It's just they should have implemented the update function into the new Steam UI too, and even though they have provided .bat files for Windows users, if you're purely a Linux or MacOS user then you're in a very hard position.
 
-> There has been constant leaks about new Valve hardware soon (including a possible **Steam Controller 2**), So Valve (***Our Lord and Savior*** **Gaben**), please re-implement the update function as you guys will probably have to use a similar system as the OG Steam Controller.
+> There has been constant leaks about new Valve hardware soon (including a possible **Steam Controller 2**), So Valve ([Our Lord and Savior Gaben](https://i.imgur.com/eXBFL.jpeg), please re-implement the update function, as you will probably have to use a similar system to the OG Steam Controller.
 
 #### Bluetooth connectivity
 
 I admit I don't really have much to say here, because honestly I haven't found a use for this situation yet, I have tried and got it working with the Steam Link App but that's just it.
 
-> I don't really want comment on latency because I'm just not that type of player, like yeah I know how bad latency feels like, but genuinely I don't know how fast latency feels like, I just get used to it lol, but yeah that's just me being a really casual gamer.
+> I don't really want to comment on latency because I'm just not that type of player, like yeah I know how bad latency feels like, but genuinely I don't know how fast latency feels like, I just get used to it lol, but yeah that's just me being a really casual gamer.
 
 ## Actually using the controller
 
@@ -127,11 +127,11 @@ I only have one example of this and it's **Sid Meier's Pirates (2004)**, this ga
 
 ### Conclusion
 
-Admittedly not all Steam Games will support the Steam Controller, some you have to make your own configurations (especially less-popular indie games), but honestly that's what makes the Steam Controller so cool, it's basically a tinkerers controller, it's unique and way ahead of it's time, and it's understandable why today there's a big cult-following of this controller, I think why it didn't sell well was because it was trying to fix an issue not every person really had, not everyone back then had the **Steam Machine** (*wink, wink*), and the majority of gamers usually have their Gaming PCs on a desk, the amount of HTPC-users which felt the need of this kind of controller were probably rare.
+Admittedly not all Steam Games will support the Steam Controller, some you have to make your own configurations (especially less-popular indie games), but honestly that's what makes the Steam Controller so cool, it's basically a tinkerers controller, it's unique and way ahead of it's time, and it's understandable why today there's a big cult-following of this controller, I think why it didn't sell well was because it was trying to fix an issue not every person really had, not everyone back then had a Steam Machine (wink, wink), and since the majority of gamers usually have their gaming PCs on a desk, the number of HTPC users who felt the need for this kind of controller was probably small.
 
-In fact, in all honestly I can't really even recommend this controller except to those with very specific use cases, yes, this controller was ahead of it's time, but it's has it's flaws, I think it's biggest flaw is it's biggest speciality and it's the touchpads, the common people just wasn't used to the idea and admittedly not every game adapt well to the control scheme which the Steam Controller is able to provide, saying it straight a touchpad can't really replace a thumbstick.
+In fact, in all honestly I can't really even recommend this controller except to those with very specific use cases, yes, this controller was ahead of it's time, but it has its flaws, I think it's biggest flaw is it's biggest speciality and it's the touchpads, the common people just wasn't used to the idea and admittedly not every game adapt well to the control scheme which the Steam Controller is able to provide, to put it simply, a touchpad can't really replace a thumbstick.
 
-The Steam Controller legacy is think is bigger than most people think, despite being called a "failure", it did surprise the market with something innovative and sometimes we need something like that no-matter how necessary, and the fact that the Steam Deck's control scheme (which is of course can be considered something of a successor) is considered one of it's main buying of the Steam Deck, Valve has constantly been obsessed with perfecting there inventions and their progress shows.
+The Steam Controller legacy is think is bigger than most people think, despite being called a "failure", it did surprise the market with something innovative, and sometimes we need something like that, no matter how necessary, and the fact that the Steam Deck's control scheme (which is of course can be considered something of a successor) is considered one of it's main buying of the Steam Deck, Valve has constantly been obsessed with perfecting there inventions and their progress shows.
 
 There has been leaks and rumours of Valve potentially returning to the Steam Machine and if you want to make a home-console, you need to make a controller, there has been recent leaks which shows a model of a Steam Deck-like controller but without the screen, and it looks quite interesting, it basically fixes the issue with the OG Steam Controller, all the Thumbsticks are there, while keeping the innovative touchpads, it looks awesome and I will probably get it if the leaks are real.
 
