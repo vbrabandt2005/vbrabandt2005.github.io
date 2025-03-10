@@ -11,6 +11,8 @@ So, weirdly for Christmas, I randomly thought to myself that I want a [Steam Con
 
 ## First Impressions
 
+![Holding the Steam Controller](https://i.imgur.com/SfCusjt.jpeg)
+
 First time holding it felt really nice, yes, it's not the usual controller style, but despite its large OG Xbox-style big design, I got used to it really quickly to be honest.	
 
 > My advice to anyone in using the Steam controller is instead of using your middle fingers to grip the controller, place both your index and middle fingers on bumper buttons and triggers always, this way, your thumbs will be at the proper angle making it easier to use the buttons and the touchpads.
@@ -63,6 +65,8 @@ The Highlights of the controller really, they are fairly accurate, of course it'
 
 #### Triggers
 
+![How to hold it](https://i.imgur.com/ngSA2vN.jpeg)
+
 Yes, the Triggers are another highlights of this controller, these triggers are special because they are dual-stage controllers, you can do a soft pull of the trigger then do a full-pull on the trigger to achieve a click.
 
 I haven't actually been in a situation where I had to use this, but honestly it's quite awesome to know you can configure aiming and firing on a single trigger (soft-pull to aim and then full-pull to fire).
@@ -74,6 +78,8 @@ I haven't actually been in a situation where I had to use this, but honestly it'
 Bumpers are clicky, they're basic, I don't think there's much special to them to be honest, I think a criticism would be that they need a bit of force to click.
 
 #### Back-triggers
+
+![Back-Pic](https://i.imgur.com/bL0lmBw.jpeg)
 
 If I assume correctly, I believe back-triggers back then weren't that common, so yes, it special for it's time, I'm honestly fine with them too, I haven't been in a situation where I have to use them, but as far my experience goes, I personally think they feel great and I think the fact they are part of the backplate/battery-cover is actually kind of smart design even though it's clear it was made because of cost-savings.
 
