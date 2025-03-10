@@ -7,8 +7,6 @@ image: https://i.imgur.com/M4grmvo.jpeg
 tags: [computers, software, hardware, linux, gaming, review, controller]
 ---
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Jam4hdn"  ><a href="//imgur.com/a/Jam4hdn">Steam Controller (2025)</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 So, weirdly for Christmas, I randomly thought to myself that I want a [Steam Controller](https://store.steampowered.com/app/353370/Steam_Controller/) 10 years after it's release, the two games that made me want a Steam Controller was Okami and Civilization 6 (will explain later). I managed to snag one up second-hand through an Ebay auction for 60 euros (which I think was a fair price at this condition), It came with the original box, dongle, papers and of course the controller itself.
 
 ## First Impressions
@@ -93,7 +91,6 @@ Of course it depends on the games, the Steam Controller is quite unique in that 
 Some games/developers implement the Steam Input API directly into the game allowing direct modification of controller configuration and wide-ranging controller support, back then Game-devs used Steam Input API to easily implement controller support into their games, I do know some games which intentionally implemented the Steam Input API with the Steam Controller in mind, and this has since moved over to the Steam Deck as some developers wishes to fully support it.
 
 ![Steam Input config for Civ5](https://i.imgur.com/e2t7D1g.jpeg)
-_Civilization 5 configuration_
 
 #### Examples of Steam Controller/Steam Input API games
 
