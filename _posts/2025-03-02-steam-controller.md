@@ -154,7 +154,7 @@ You don't really need it unless you find a reason to get one and even at that, y
 - Innovative touchpads
 - Innovative dual-stage triggers
 - Tinkerers dream
-- Nice Gyro
+- Nice Gyro-motion sensors
 - Multiple configurations, whether official, fan-made or DIY-made
 - Nice Haptic-feedback
 
