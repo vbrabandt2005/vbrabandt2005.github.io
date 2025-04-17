@@ -1,43 +1,33 @@
-# Chirpy Starter
+# Repository of vbrabandt2005.github.io
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+`Chripy = 7.2.0`
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+## Why did I create this site?
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+I intended to create this site as an experiment and as a way to express myself without relying on social media, most social media sites in my opinion are no longer designed for long posts anymore.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+>TLDR; basically it's a personal blog
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+## Why did I choose Github pages + Jekyll instead of another service?
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+Well firstly, I confess I can't afford a personal domain yet, so that explains why I'm using Github pages (plus I really like the openness of Github/Open-source).
 
-## Usage
+I admit I have no experience at UI design (& I'm sorry but I don't want to ever get into HTML/CSS), I just want a simple blog style site with a minimalist/utilitarian kinda feel, but I found Squarespace/Wix to be designed more for portfolios and businesses, I once had a Wordpress site, but I didn't enjoy it's editor.
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+### Are things here open-source?
 
-## Contributing
+Answer is most will be, but I'm still learning about licenses and I will probably keep some stuff (such as photos/audios) copyrighted, but if you need anything from a post then feel free to ask for permission.
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+And thank you to all the open-source projects which were used for the site.
 
-## License
+### for further information about the site
 
-This work is published under [MIT][mit] License.
+please check out:
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+- ["Welcome to my new site!" post](https://vbrabandt2005.github.io/posts/welcome-to-my-new-site)
+- (Soon to be created credit/licenses site or something)
+
+## What's used for this site
+
+- [Jekyll](https://jekyllrb.com)
+- [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy)
